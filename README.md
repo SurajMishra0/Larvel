@@ -3,8 +3,7 @@ A one script to find all larvel sites out there in internet.
 
 * THIS SCRIPT MIGHT CAUSE FINANCIAL DAMAGE TO WEBSITE TARGETING AND MAY END UP LEAVING YOU IN HANDS OF COP, MADE FOR EDUCATIONAL PURPOSE ONLY *
 
-This is dedicated to find larvel sites on internet.
-But before starting let me clear you what is larvel.
+But before starting let me clear you what is larvel &
 
 # Larvel #
 
@@ -12,3 +11,7 @@ Laravel is a well-known open-source PHP framework for creating online apps and w
 
 # Why We targeting Larvel? 
 
+It was clear that the main use of larvel php framework was to store auth of different plugins and api's related to site. such as smtp data, database password, admin creds, payment secret, api's related to all tasks being performed in site.
+So we will find website that are wordpress first of all, then test them to see if they larvel or not.
+
+# 
