@@ -14,4 +14,8 @@ Laravel is a well-known open-source PHP framework for creating online apps and w
 It was clear that the main use of larvel php framework was to store auth of different plugins and api's related to site. such as smtp data, database password, admin creds, payment secret, api's related to all tasks being performed in site.
 So we will find website that are wordpress first of all, then test them to see if they larvel or not.
 
-# 
+# System requirement
+A server is a must 
+Ubuntu latest will work super fine for it & Windows are also good for it. 
+Some part contains windows only working tool outsourced from online free available.
+
