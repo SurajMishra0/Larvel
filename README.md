@@ -24,7 +24,7 @@ Some part contains windows only working tool outsourced from online free availab
 
 # Process
 
-1. First process is pretty simple to obtain domains. PUBLIC DOMAINS list. And well this can be obtained by simply alex 1 milion top domain or just using a search engine and headers to crawl through pages and collect domain. using dork is the best way to get preferred target. 
+1. First process is pretty simple to obtain domains. PUBLIC DOMAINS list. And well this can be obtained by simply alexa 1 milion top domain or just using a search engine and headers to crawl through pages and collect domain. using dork is the best way to get preferred target. 
 2. When we got domains we save it into a text file and do a quick dns lookup for all domains and quickly convert them to their respective ips. now you may have a question why we need to convert them to ip. i'll explain it in next step.
 3. The saved ips list, we are gonna ranged them by /16 and find all subnet of it. for eg. 104.76.0.1 is rnaged into 104.76.0.[1-254]. Now by doing this way we are expanding our search , in simple terms a big hosting company usually hold all subnets of a ip and if we range them and reverse lookup them we will find all the domains corresponding to those ips so in short we will increase our domain list.
 4. By doing larvel we need to find wordpress site then we look for larvel to exploit /.env into them and export creds. so more the number of domains more the chances of getting larvel sites and more the creds. [ # THIS IS FOR EDUCATIONAL PURPOSE SO THAT ANYONE IF USES LARVEL FRAMEWORK WILL SECURE THEIR SITE BY LIMITING ACCESS TO /.ENV ] 
