@@ -18,6 +18,9 @@ So we will find website that are wordpress first of all, then test them to see i
 A server is a must,
 Ubuntu latest or 20.04 will work super fine for it & Windows are also good for it. 
 Some part contains windows only working tool outsourced from online free available.
+Python 3.11.6 is required 
+python 2.7 is required [BOTH VERSIONS]
+notepad++ will need to manupulate text files.
 
 # Process
 
