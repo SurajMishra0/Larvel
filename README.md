@@ -33,5 +33,5 @@ notepad++ will need to manupulate text files.
 6. The script will automatically run and find the culprit aka larvel sites :D 
 
 THATS ALL FOR LARVEL CRACKING
-follow my github account for more of such contents.
+follow my github account for more of such contents. & Mark star if you liked this. 
 keep learning, keep exploring.
