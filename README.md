@@ -3,7 +3,7 @@ A one script to find all larvel sites out there in internet.
 
 * THIS SCRIPT MIGHT CAUSE FINANCIAL DAMAGE TO WEBSITE TARGETING AND MAY END UP LEAVING YOU IN HANDS OF COP, MADE FOR EDUCATIONAL PURPOSE ONLY *
 
-But before starting let me clear you what is larvel &
+But before starting let me clear you what is larvel & Why is it important to find larvel sites and report them. 
 
 # Larvel #
 
