@@ -37,7 +37,18 @@ follow my github account for more of such contents. & Mark star if you liked thi
 keep learning, keep exploring.
 
 # GET STARTED
+1. Clone the github repo and enter the below command
 
 <img width="966" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/f4bd1b01-8f13-4fa0-822e-7b108d0aed8a">
 
-Command is Python3 Finder.py (source file) (threads max upto 200)
+Command is  Python3 Finder.py (source file) (threads max upto 200) 
+
+<img width="507" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/454fd0cb-c935-473a-873c-1efcdc78eacf">
+
+2. A overview of what is possible to find with this script.
+
+<img width="1680" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/d042819e-9aef-4947-8f67-139495df36b9">
+
+Warning [ DON'T ABUSE ANY SYSTEM, TRY AND TEST METHOD ON YOUR OWN WEBSITE ONLY ]
+
+
