@@ -35,3 +35,9 @@ Some part contains windows only working tool outsourced from online free availab
 THATS ALL FOR LARVEL CRACKING
 follow my github account for more of such contents. & Mark star if you liked this. 
 keep learning, keep exploring.
+
+# GET STARTED
+
+<img width="966" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/f4bd1b01-8f13-4fa0-822e-7b108d0aed8a">
+
+Command is Python3 Finder.py (source file) (threads max upto 200)
