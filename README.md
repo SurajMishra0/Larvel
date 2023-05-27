@@ -47,9 +47,8 @@ Command is  Python3 Finder.py (source file) (threads max upto 200)
 
 2. A overview of what is possible to find with this script.
 
-<img width="1680" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/74b47798-c638-4b55-9787-0405efbf9b71">
-
+<img width="1680" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/472d69f9-af3c-4bdb-b14e-66609d839724">
 
 Warning [ DON'T ABUSE ANY SYSTEM, TRY AND TEST METHOD ON YOUR OWN WEBSITE ONLY ]
 
-
+BY THIS WAY YOU CAN FIND MANY LARVEL SITES, AND REPORT THEIR VENURABILITY TO THE ORGANISATION OR COMPANY SO THAT THEY CAN MAKE CHANGES. 
