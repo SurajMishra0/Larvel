@@ -47,7 +47,8 @@ Command is  Python3 Finder.py (source file) (threads max upto 200)
 
 2. A overview of what is possible to find with this script.
 
-<img width="1680" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/d042819e-9aef-4947-8f67-139495df36b9">
+<img width="1680" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/74b47798-c638-4b55-9787-0405efbf9b71">
+
 
 Warning [ DON'T ABUSE ANY SYSTEM, TRY AND TEST METHOD ON YOUR OWN WEBSITE ONLY ]
 
