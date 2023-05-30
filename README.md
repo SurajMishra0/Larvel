@@ -39,8 +39,6 @@ keep learning, keep exploring.
 # GET STARTED
 1. Clone the github repo and enter the below command
 
-<img width="966" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/f4bd1b01-8f13-4fa0-822e-7b108d0aed8a">
-
 Command is  Python3 Finder.py (source file) (threads max upto 200) 
 
 <img width="507" alt="image" src="https://github.com/SurajMishra0/Larvel/assets/90396274/454fd0cb-c935-473a-873c-1efcdc78eacf">
