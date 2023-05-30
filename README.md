@@ -1,3 +1,4 @@
+To Grab ips and domain use My DomainGrabber repository 
 # Larvel
 A one script to find all larvel sites out there in internet.
 
