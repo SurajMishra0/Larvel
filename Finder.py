@@ -9,7 +9,15 @@ yl = Fore.YELLOW
 red = Fore.RED
 gr = Fore.GREEN
 
+proxy_host = 'YOUR_PROXY_HOST'
+proxy_port = 'YOUR_PROXY_PORT'
+proxy_username = 'YOUR_PROXY_USERNAME'
+proxy_password = 'YOUR_PROXY_PASSWORD'
 
+proxies = {
+    'http': f'http://{proxy_username}:{proxy_password}@{proxy_host}:{proxy_port}',
+    'https': f'http://{proxy_username}:{proxy_password}@{proxy_host}:{proxy_port}'
+}
 
 headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0"}
 
