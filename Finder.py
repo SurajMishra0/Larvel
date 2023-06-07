@@ -85,7 +85,7 @@ def main():
     print(gr  + "×                                                      ×")
     print(gr  + "×                   LARAVEL Finder                     ×")
     print(gr  + "×                   CODED BY ME :-)                    ×")
-    print(gr  + "×                   github  SurajMishra0               ×")
+    print(gr  + "×                   github SurajMishra0                ×")
     print(gr  + "×                                                      ×")
     print(red + "××××××××××××××××××××××××××××××××××××××××××××××××××××××××")
     print(gr  +  "    -GET SHELL,SMTP, ETC FROM LARAVEL SITES-\n         ")
@@ -93,7 +93,7 @@ def main():
     site = open(sys.argv[1], "r").readlines()
     Thread = int(sys. argv[2])
     if Thread > 200:
-        sys.exit("maximum thread limit is 60")
+        sys.exit("maximum thread limit is 200")
     else:
         pass
 
